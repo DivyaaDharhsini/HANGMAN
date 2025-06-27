@@ -13,4 +13,4 @@ Features include:
 🔁 Option to replay after each round
 
 I'm still learning, but this project shows how even simple ideas can be fun and teach you a lot!
-Would love to hear your feedback — or ideas to improve it further!
+Would love to hear your feedback!
